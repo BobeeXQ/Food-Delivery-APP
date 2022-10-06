@@ -5,7 +5,7 @@ A real time database is built with Firebase to store and synchronize data for th
 The application has adapted and optimized design for mobile browser-based Web services accessed from mobile devices, and incorporated interactive animation design using Framer Motion to increase user engagement and establish visual
 connections between users and products.
 
-## Technology
+## Technologies
 * React
 * JavaScript
 * Tailwind CSS
